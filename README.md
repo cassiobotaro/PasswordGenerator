@@ -1,5 +1,5 @@
-##Password-Generator
-##Trabalho de Linguagens de Programação I
+## Password-Generator
+## Trabalho de Linguagens de Programação I
 
 Implementar um programa em Python que gera senhas aleatórias e fáceis de
 memorizar utilizando substantivos, adjetivos e números de, no maximo, 3 (três) 
@@ -12,22 +12,22 @@ Número aleatório(3 caracteres)*
 As senhas geradas são únicas e para facilitar memorização, o adjetivo concorda
 em gênero com o substantivo.
 
-##Grupo:
+## Grupo:
 
 * Cássio Botaro
 * Mônica Faria (contribuição)
 * Pedro Augusto
 
-##Professor: 
+## Professor: 
 Bruno de Oliveira Schneider
 
-##Dependências:
+## Dependências:
 
 * Python 3 (`sudo apt-get install python3`) 
 * Tkinter (`sudo apt-get install python3-tk`)
 
 
-##Como utilizar:
+## Como utilizar:
 
 1. Clone o repositório 
 
@@ -41,7 +41,7 @@ Bruno de Oliveira Schneider
 
     `python3 password_generator.py`
 
-##FAQ:
+## FAQ:
 
 1 **Programa abre,exibe erro e fecha.**
 
